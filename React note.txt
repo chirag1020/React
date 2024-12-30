@@ -1,0 +1,6 @@
+MERN = MongoDB Express React and Node.js , not fream work 
+MEAN = MongoDB Express angular and Node.js
+MEVN
+MP
+
+nan = not a number 
